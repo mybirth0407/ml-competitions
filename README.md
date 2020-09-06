@@ -1,8 +1,5 @@
 # Kaggle
-Kaggle Practice
-
-### Digit Recognition
-https://github.com/mybirth0407/Kaggle-Digit-Recognition
+Kaggle Projects
 
 ### Gender Recognition by Voice
 https://github.com/mybirth0407/Kaggle-Gender-Recognition-by-Voice
