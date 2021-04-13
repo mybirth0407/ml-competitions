@@ -17,4 +17,4 @@ https://github.com/mybirth0407/Kaggle-Car-Model-Classification
 Dacon competitions
 
 ### Motion Keypoints Detection
-https://dacon.io/competitions/official/235701
+https://github.com/mybirth0407/motion-keypoints-detection
