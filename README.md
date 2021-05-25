@@ -1,5 +1,4 @@
 ## Kaggle
-Kaggle competitions
 
 ### Gender Recognition by Voice
 https://github.com/mybirth0407/Kaggle-Gender-Recognition-by-Voice
@@ -14,7 +13,6 @@ https://github.com/mybirth0407/Kaggle-Dont-overfit-2
 https://github.com/mybirth0407/Kaggle-Car-Model-Classification
 
 ## Dacon
-Dacon competitions
 
 ### Motion Keypoints Detection
 https://github.com/mybirth0407/motion-keypoints-detection
