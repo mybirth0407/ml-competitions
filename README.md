@@ -1,7 +1,7 @@
 ## Kaggle
 
 ### tensorflow-great-barrier-reef
-https://www.kaggle.com/c/tensorflow-great-barrier-reef
+https://github.com/mybirth0407/tensorflow-great-barrier-reef
 
 ### Gender Recognition by Voice
 https://github.com/mybirth0407/Kaggle-Gender-Recognition-by-Voice
